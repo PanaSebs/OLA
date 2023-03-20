@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OLA</string>
+    <string name="ge">Genero</string>
+    <string name="f">Femenino</string>
+    <string name="M">Masculino</string>
+    <string name="other">Otro</string>
+    <string name="pf2">PERFIL</string>
+    <string name="nm">Nombre</string>
+    <string name="srnm">Apellido</string>
+    <string name="C">Categoria</string>
+    <string name="fan">Fantasia</string>
+    <string name="p">Paranormal</string>
+    <string name="po">Policial</string>
+    <string name="T">Suspenso</string>
+    <string name="ad">Aventura</string>
+    <string name="ro">Amor</string>
+</resources>

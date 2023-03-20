@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OLA</string>
+    <string name="app">BOOKSHELF</string>
+    <string name="imagen">libreria</string>
+    <string name="gato">gato2</string>
+    <string name="ge" translatable="false">gender</string>
+    <string name="f" translatable="false">female</string>
+    <string name="M" translatable="false">Male</string>
+    <string name="other" translatable="false">Other</string>
+    <string name="pf2" translatable="false">Profile</string>
+    <string name="nm" translatable="false">NAME</string>
+    <string name="srnm" translatable="false">SURNAME</string>
+    <string name="C" translatable="false">Category</string>
+    <string name="fan" translatable="false">Fantasy</string>
+    <string name="p" translatable="false">Paranormal</string>
+    <string name="po" translatable="false">Police</string>
+    <string name="T" translatable="false">Thriller</string>
+    <string name="ad" translatable="false">Adventure</string>
+    <string name="ro" translatable="false">Romance</string>
+</resources>
