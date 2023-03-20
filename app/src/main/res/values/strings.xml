@@ -17,4 +17,8 @@
     <string name="T" translatable="false">Thriller</string>
     <string name="ad" translatable="false">Adventure</string>
     <string name="ro" translatable="false">Romance</string>
+    <string name="Ref" translatable="false">REFERENCE</string>
+    <string name="name" />
+    <string name="button" translatable="false">SEND</string>
+    <string name="change_color" translatable="false">Change Color</string>
 </resources>
